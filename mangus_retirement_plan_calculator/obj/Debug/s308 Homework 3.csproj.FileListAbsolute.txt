@@ -1,0 +1,30 @@
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\bin\Debug\s308 Homework 3.exe.config
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\bin\Debug\s308 Homework 3.exe
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\bin\Debug\s308 Homework 3.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.csprojAssemblyReference.cache
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\MainWindow.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\App.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3_MarkupCompile.cache
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3_MarkupCompile.lref
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\MainWindow.baml
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.g.resources
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308_Homework_3.Properties.Resources.resources
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.csproj.GenerateResource.cache
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.csproj.CoreCompileInputs.cache
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.exe
+C:\Users\13177\Desktop\Fall 2020\S308\hw3\s308 Homework 3\obj\Debug\s308 Homework 3.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\bin\Debug\s308 Homework 3.exe.config
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\bin\Debug\s308 Homework 3.exe
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\bin\Debug\s308 Homework 3.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.csprojAssemblyReference.cache
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\MainWindow.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\App.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3_MarkupCompile.cache
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3_MarkupCompile.lref
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\MainWindow.baml
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.g.resources
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308_Homework_3.Properties.Resources.resources
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.csproj.GenerateResource.cache
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.csproj.CoreCompileInputs.cache
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.exe
+C:\Users\13177\Desktop\Fall 2020\S308\ammangus_A3\s308 Homework 3\obj\Debug\s308 Homework 3.pdb
